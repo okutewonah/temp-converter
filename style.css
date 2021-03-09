@@ -46,7 +46,8 @@ input {
 button {
     width: 75px;
 }
-.result {
+.result1, 
+.result2 {
     padding-left: 1rem;
     font-size: larger;
     font-weight: 600;
